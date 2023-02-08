@@ -1,0 +1,11 @@
+In javascript fuction is block of code designed to perform a particular task. kono barbar kora theke bachte fuction kore rakha hoi.. jokhn dorkar porbe setake call kore kaaj execute kora hobe.
+
+fuction identifier(parameters){
+    code;
+}
+
+parameter use for calculation and many other task
+
+if I don't write anything after return so the fuction would not returnm anything.
+
+We can write our expected task variables, calculation after return.
